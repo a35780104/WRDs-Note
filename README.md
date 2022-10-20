@@ -16,6 +16,16 @@ https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/co_afnd2/
 Table:"namesq" , Description:"Name File	"。公司名稱都在這個Table。  
 https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/namesq/  
 
+## 欄位資料
+欄位資料都在Table裡面可以看  
+查看哪些是你需要的欄位  
+
+### Example
+https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/namesq/  
+Variable Name:"gvkey" Description:"Global Company Key"  
+Variable Name:"sic" Description:"Standard Industry Classification Code"  
+
+
 ## 操作
 安裝包  
 ```
