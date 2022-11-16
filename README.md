@@ -10,8 +10,8 @@ https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/sp-global-market-int
 https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/  
  
  
-Table:"funda" , Description:"Merged Fundamental Annual File (funda)"。綜合財務報表整合(韓)在這個Table。  
-https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_annual_all/funda/
+Table:"funda" , Description:"Merged Fundamental Annual File (funda)"綜合財務報表整合(韓)在這個Table。  
+https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_annual_all/funda/  
 Table:"co_afnd1" , Description:"Company Annual Item (A-L)"。資產負債表涵蓋的資料都在這個Table。  
 https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/co_afnd1/  
 Table:"co_afnd2" , Description:"Company Annual Item (M-Z)	"。損益表涵蓋的資料都在這個Table。  
