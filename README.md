@@ -1,5 +1,5 @@
 # WRDs-Note
-This is wrds search code for cylab
+This is wrds search code for cylab.
 
 ## Wharton網址
 通常會去裡面的"Products"找哪個資料庫(在這叫library)可以抓  
