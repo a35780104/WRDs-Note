@@ -28,6 +28,8 @@ https://wrds-www.wharton.upenn.edu/data-dictionary/comp_na_daily_all/namesq/
 Variable Name:"gvkey" Description:"Global Company Key"  
 Variable Name:"sic" Description:"Standard Industry Classification Code"  
 
+## Wharton Sample Code  
+https://wrds-www.wharton.upenn.edu/documents/1443/wrds_connection.html  
 
 ## 操作
 安裝包  
